@@ -1,0 +1,5 @@
+train: C:/FirstProjectPython/archive/train/images
+val: C:/FirstProjectPython/archive/valid/images
+test: C:/FirstProjectPython/archive/test/images
+nc: 1
+names: ['license_plate']
